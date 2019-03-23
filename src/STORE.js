@@ -1,6 +1,6 @@
 export default {
 
-  view: 'Chat',
+  view: 'Participants',
 
   localUser: 1,
 
